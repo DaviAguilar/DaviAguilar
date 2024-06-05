@@ -1,5 +1,5 @@
 
-# Olá, eu sou [Davi Aguilar Nunes Oliveira] 👋
+# Olá, eu sou Davi Aguilar Nunes Oliveira 👋
 
 <!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil/)](https://www.linkedin.com/in/seu-perfil/) -->
 [![GitHub](https://img.shields.io/github/followers/DaviAguilar?label=follow&style=social)](https://github.com/DaviAguilar)
