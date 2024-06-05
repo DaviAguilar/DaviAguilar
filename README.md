@@ -2,7 +2,7 @@
 # Olá, eu sou [Davi Aguilar Nunes Oliveira] 👋
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil/)](https://www.linkedin.com/in/seu-perfil/)
-[![GitHub](https://img.shields.io/github/followers/seu-usuario?label=follow&style=social)](https://github.com/seu-usuario)
+[![GitHub](https://img.shields.io/github/followers/seu-usuario?label=follow&style=social)]([https://github.com/seu-usuario](https://github.com/DaviAguilar))
 
 ## Sobre Mim
 
