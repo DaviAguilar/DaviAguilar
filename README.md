@@ -7,7 +7,7 @@
 ## Sobre Mim
 
 Gosto muito de músicas, tecnologia, viagens, esportes e carros.<br/>
-💻Estudo Engenharia de Software na PUC Minas | 4º Período </br>
+💻Estudo Engenharia de Software na PUC Minas | 5º Período </br>
 📚Atualmente aprofundando conhecimentos em Java</br>
 
 ## Habilidades
