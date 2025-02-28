@@ -32,7 +32,101 @@ Gosto muito de músicas, tecnologia, viagens, esportes e carros.<br/>
 - **Ferramentas e Tecnologias:**
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  
+ 
+<td>
+  <a align="left" href="https://wakatime.com"><img src="https://wakatime.com/share/@DaviAguilar/42258725-670c-44ca-925c-5a9cda69ff26.png" /></a>
+  <a img src="https://github-readme-stats.vercel.app/api?username=DaviAguilar&theme=onedark&show_icons=true&hide_border=true&count_private=true"></a>
+</td>
+
+<div>
+
+<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DaviAguilar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAguilar&theme=dark&locale=pt-br&langs_count=7"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAguilar&layout=pie&theme=dark&locale=pt-br"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center">:octocat: <a href="https://www.githubwrapped.io/DaviAguilar" target="_blank">GitHub Wrapped</a></td>
+ <td align="center">:watch: <a href="https://wakatime.com/@DaviAguilar">WakaTime</a></td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/DaviAguilar/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
+</td>
+<td>
+<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=DaviAguilar&theme=dark&layout=compact"/>
+</td>
+</tr>
+<tr>
+ <td align="center"></td>
+ <td align="center"></td>
+</tr> 
+</table>
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaviAguilar&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaviAguilar&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaviAguilar&theme=github_dark"/>
+</td>
+</tr>
+<tr>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaviAguilar&theme=github_dark&utcOffset=8"/>
+</td>
+<td>
+<img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaviAguilar&theme=github_dark"/>
+</td>
+<td>
+<img alt="GitHub Streak" width="420px" src="https://streak-stats.demolab.com?user=DaviAguilar&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D"/>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
+</div>
+
+<div align="center">
+
+<pre>
+██████╗  █████╗ ██╗   ██╗██╗     █████╗  ██████╗ ██╗   ██╗██╗██╗      █████╗ ██████╗ 
+██╔══██╗██╔══██╗██║   ██║██║    ██╔══██╗██╔════╝ ██║   ██║██║██║     ██╔══██╗██╔══██╗
+██║  ██║███████║██║   ██║██║    ███████║██║  ███╗██║   ██║██║██║     ███████║██████╔╝
+██║  ██║██╔══██║██║   ██║██║    ██╔══██║██║   ██║██║   ██║██║██║     ██╔══██║██╔══██╗
+██████╔╝██║  ██║╚██████╔╝██║    ██║  ██║╚██████╔╝╚██████╔╝██║███████╗██║  ██║██║  ██║
+╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝    ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>
+
+</div>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F77D&width=435&lines=//Foi+um+prazer+ter+voc%C3%AA+por+aqui!;//Volte+sempre!" alt="Typing SVG" />
 
 ## Contato
 
